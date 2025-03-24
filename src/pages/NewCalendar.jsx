@@ -110,7 +110,7 @@ const NewCalendar = () => {
         <div className="control-wrapper">
           <ScheduleComponent
             height="650px"
-            selectedDate={new Date(2025, 0, 1)}
+            selectedDate={new Date(2021, 0, 10)}
             eventSettings={eventSettings}
             actionComplete={onActionComplete}
             currentView={currentView}
